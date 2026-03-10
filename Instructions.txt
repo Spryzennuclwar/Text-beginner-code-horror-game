@@ -1,0 +1,4 @@
+Run the game:
+
+pip install -r requirements.txt
+python main.py
