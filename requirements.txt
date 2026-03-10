@@ -1,0 +1,7 @@
+rich
+colorama
+pyfiglet
+playsound
+pyttsx3
+
+These libraries must be installed for the program to work smoothly.
